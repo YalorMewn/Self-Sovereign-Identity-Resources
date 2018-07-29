@@ -73,6 +73,7 @@ Interesting projects working to develop self-sovereign identity solutions.
 * [UN Blockchain, Blockchain for Humanity Global Challenge](https://un-blockchain.org/2017/11/10/blockchain-for-humanity-global-challenge/)
 * [ID 2020](https://id2020.org/)
 * [The Better Identity](https://www.betteridentity.org/)
+* [BrightID](https://github.com/brightID)
 
 # Conferences / Meetups / Communities
 
